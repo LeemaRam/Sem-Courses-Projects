@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Career Suggestion Quiz</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+<body>
+    <div id="app">
+
+        <div id="home-page" class="page active">
+            <header class="hero">
+                <div class="neon-text">
+                    <i class="fas fa-rocket icon-float"></i>
+                    <h1>Discover Your Perfect Career Path</h1>
+                    <i class="fas fa-lightbulb icon-float"></i>
+                </div>
+                <p>Take our comprehensive career assessment quiz to find the career path that aligns with your personality, skills, and interests.</p>
+                <button onclick="startQuiz()" class="cta-button">
+                    <span class="neon-border"></span>
+                    <span class="button-text">Start Quiz</span>
+                </button>
+            </header>
+            
+            <section class="info-section">
+                <h2 class="neon-heading">Why Career Choice Matters</h2>
+                <div class="features">
+                    <div class="feature neon-card">
+                        <i class="fas fa-heart feature-icon"></i>
+                        <h3>Job Satisfaction</h3>
+                        <p>Choose a career that aligns with your interests and values for long-term satisfaction.</p>
+                    </div>
+                    <div class="feature neon-card">
+                        <i class="fas fa-balance-scale feature-icon"></i>
+                        <h3>Work-Life Balance</h3>
+                        <p>Different careers offer different lifestyle opportunities. Find what works for you.</p>
+                    </div>
+                    <div class="feature neon-card">
+                        <i class="fas fa-chart-line feature-icon"></i>
+                        <h3>Growth Potential</h3>
+                        <p>Consider careers with opportunities for advancement and skill development.</p>
+                    </div>
+                    <div class="feature neon-card">
+                        <i class="fas fa-piggy-bank feature-icon"></i>
+                        <h3>Financial Security</h3>
+                        <p>Understanding career prospects helps in planning for a stable financial future.</p>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <div id="quiz-page" class="page">
+            <div class="quiz-container neon-card">
+                <h2 class="neon-heading">Career Assessment Quiz</h2>
+                <p class="quiz-instruction">Answer honestly for the most accurate results</p>
+                
+                <div class="question-container">
+                    <p id="question-text"></p>
+                    <div class="options">
+                        <button class="option" data-value="STRONGLY_AGREE">Strongly Agree</button>
+                        <button class="option" data-value="AGREE">Agree</button>
+                        <button class="option" data-value="NEUTRAL">Neutral</button>
+                        <button class="option" data-value="DISAGREE">Disagree</button>
+                        <button class="option" data-value="STRONGLY_DISAGREE">Strongly Disagree</button>
+                    </div>
+                </div>
+
+                <div class="navigation">
+                    <button id="prev-btn" onclick="previousQuestion()">Previous</button>
+                    <span id="question-number"></span>
+                    <button id="next-btn" onclick="nextQuestion()">Next</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="results-page" class="page">
+            <div class="results-container neon-card">
+                <h2 class="neon-heading">Your Career Recommendations</h2>
+                <div class="career-recommendations">
+                    <div class="recommendation">
+                        <h3><i class="fas fa-code"></i> Software Development</h3>
+                        <p>Based on your analytical thinking and interest in technology, software development could be an excellent career path for you.</p>
+                    </div>
+                    <div class="recommendation">
+                        <h3><i class="fas fa-chart-bar"></i> Data Analysis</h3>
+                        <p>Your strong problem-solving skills and attention to detail suggest you would excel in data analysis roles.</p>
+                    </div>
+                    <div class="recommendation">
+                        <h3><i class="fas fa-tasks"></i> Project Management</h3>
+                        <p>Your organizational skills and ability to work with others indicate strong potential in project management.</p>
+                    </div>
+                </div>
+                <div class="next-steps">
+                    <h3>Next Steps</h3>
+                    <ul>
+                        <li>Research these career paths in detail</li>
+                        <li>Connect with professionals in these fields</li>
+                        <li>Look for internship or entry-level opportunities</li>
+                        <li>Consider relevant certifications or education</li>
+                    </ul>
+                </div>
+                <button onclick="restartQuiz()" class="restart-button">Take Quiz Again</button>
+            </div>
+        </div>
+    </div>
+    <script src="questions.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
