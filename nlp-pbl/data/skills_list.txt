@@ -1,0 +1,307 @@
+python
+java
+javascript
+typescript
+c++
+c#
+c
+ruby
+go
+golang
+rust
+php
+swift
+kotlin
+scala
+r
+matlab
+perl
+html
+css
+react
+reactjs
+angular
+angularjs
+vue
+vue.js
+node.js
+nodejs
+express
+expressjs
+django
+flask
+fastapi
+spring
+spring boot
+asp.net
+jquery
+bootstrap
+tailwind
+tailwind css
+sass
+less
+webpack
+sql
+mysql
+postgresql
+postgres
+mongodb
+redis
+cassandra
+oracle
+sqlite
+dynamodb
+neo4j
+elasticsearch
+mariadb
+couchdb
+firebase
+aws
+amazon web services
+azure
+microsoft azure
+gcp
+google cloud
+google cloud platform
+docker
+kubernetes
+k8s
+jenkins
+gitlab
+github actions
+terraform
+ansible
+ci/cd
+devops
+circleci
+travis ci
+machine learning
+deep learning
+nlp
+natural language processing
+computer vision
+tensorflow
+pytorch
+keras
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+data analysis
+data visualization
+statistics
+big data
+apache spark
+hadoop
+pyspark
+git
+github
+gitlab
+bitbucket
+linux
+unix
+bash
+shell scripting
+powershell
+vim
+emacs
+vscode
+visual studio code
+jupyter
+jupyter notebook
+api
+rest
+restful
+graphql
+soap
+microservices
+agile
+scrum
+kanban
+jira
+confluence
+trello
+leadership
+communication
+teamwork
+team collaboration
+problem solving
+analytical
+analytical thinking
+project management
+critical thinking
+time management
+testing
+unit testing
+integration testing
+debugging
+optimization
+performance optimization
+security
+cybersecurity
+networking
+algorithms
+data structures
+oop
+object oriented programming
+functional programming
+design patterns
+version control
+continuous integration
+continuous deployment
+cloud computing
+distributed systems
+system design
+software architecture
+full stack
+frontend
+front-end
+backend
+back-end
+mobile development
+ios development
+android development
+react native
+flutter
+xamarin
+web development
+responsive design
+ui/ux
+user interface
+user experience
+photoshop
+illustrator
+figma
+sketch
+adobe xd
+sql server
+pl/sql
+nosql
+etl
+data warehousing
+data mining
+business intelligence
+tableau
+power bi
+looker
+splunk
+airflow
+kafka
+rabbitmq
+celery
+opencv
+nltk
+spacy
+transformers
+bert
+gpt
+neural networks
+cnn
+rnn
+lstm
+reinforcement learning
+supervised learning
+unsupervised learning
+feature engineering
+model deployment
+mlops
+selenium
+pytest
+jest
+mocha
+cucumber
+postman
+swagger
+rest assured
+load testing
+stress testing
+penetration testing
+ethical hacking
+owasp
+encryption
+authentication
+authorization
+oauth
+jwt
+ssl
+tls
+blockchain
+smart contracts
+solidity
+ethereum
+web3
+cryptocurrency
+iot
+internet of things
+raspberry pi
+arduino
+embedded systems
+c programming
+assembly
+verilog
+vhdl
+fpga
+robotics
+ros
+computer graphics
+opengl
+unity
+unreal engine
+game development
+augmented reality
+virtual reality
+ar/vr
+3d modeling
+blender
+maya
+autocad
+solidworks
+matlab
+simulink
+latex
+markdown
+technical writing
+documentation
+seo
+digital marketing
+google analytics
+content management
+wordpress
+drupal
+magento
+shopify
+salesforce
+crm
+erp
+sap
+oracle erp
+servicenow
+itil
+pmp
+six sigma
+lean
+product management
+stakeholder management
+risk management
+quality assurance
+manual testing
+automation testing
+performance testing
+load runner
+jmeter
+appium
+cypress
+playwright
+excel
+vba
+macros
+powerpoint
+microsoft office
+google workspace
+slack
+microsoft teams
+zoom
+communication tools
+remote work
+virtual collaboration
