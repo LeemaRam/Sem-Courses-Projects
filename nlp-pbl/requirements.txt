@@ -1,9 +1,0 @@
-# Hugging Face Spaces - Smart Resume Parser Requirements
-streamlit==1.28.0
-spacy==3.7.2
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0-py3-none-any.whl
-pdfplumber==0.10.3
-python-docx==1.1.0
-pandas==2.1.3
-numpy==1.26.2
-Pillow==10.1.0
